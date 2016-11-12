@@ -6,22 +6,36 @@ footer{
 body {
   background-color: #FE9A2E;
 }
-#wrapper {
-  width: 560px;
+#warpper {
+  max-width: 960px;
   margin:  0px auto;
   background-color:  #FFFFFF;
   margin-top: 20px;
   padding: 20px;
 }
 header{
-
+  width: 100%;
+  height:  100px;
+  background-color: #DF7401;
+  margin-bottom:  20px;
 }
 #content {
-
+  width: 80%;
+  height: 520px;
+  background-color: #A4A4A4;
+float: right;
+margin-bottom: 20px;
 }
 nav{
-
+  width: 17%;
+  height: 520px;
+  float: left;
+  background-color: #FACC2E;
+  margin-bottom: 20px;
 }
 footer {
-
+  clear:both;;
+  width: 100%;
+  height: 50px;
+  background-color: #FA5858;
 }
