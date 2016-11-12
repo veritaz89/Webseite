@@ -7,7 +7,11 @@ body {
   background-color: #FE9A2E;
 }
 #wrapper {
-
+  width: 560px;
+  margin:  0px auto;
+  background-color:  #FFFFFF;
+  margin-top: 20px;
+  padding: 20px;
 }
 header{
 
@@ -19,5 +23,5 @@ nav{
 
 }
 footer {
-  
+
 }
